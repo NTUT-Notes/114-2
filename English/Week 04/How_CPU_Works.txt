@@ -1,0 +1,14 @@
+# A command executed on CPU
+
+### Outline
+1. Instruction Fetch
+2. Instruction Decoding
+3. Execute
+4. Write to memory
+5. Write back register
+
+### Context
+When it comes to a computer, CPU plays a important role in a whole system. Today, we will dive into the micro-CPU world
+and figure out how a command being fetched and executed. Then eventually complete it's own mission.
+
+
