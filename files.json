@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Data Science",
+    "type": "directory",
+    "children": [
+      {
+        "name": "DS_2_Business-Intelligence.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/DS_2_Business-Intelligence.xopp.pdf"
+      },
+      {
+        "name": "DS_3_Data-Ware-House.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/DS_3_Data-Ware-House.xopp.pdf"
+      },
+      {
+        "name": "DS_4_Data-Mining.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/DS_4_Data-Mining.xopp.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Ethical Hacking",
+    "type": "directory",
+    "children": [
+      {
+        "name": "Week01.xopp.pdf",
+        "type": "file",
+        "url": "Ethical Hacking/Week01.xopp.pdf"
+      },
+      {
+        "name": "Week03.xopp.pdf",
+        "type": "file",
+        "url": "Ethical Hacking/Week03.xopp.pdf"
+      },
+      {
+        "name": "Week04.xopp.pdf",
+        "type": "file",
+        "url": "Ethical Hacking/Week04.xopp.pdf"
+      },
+      {
+        "name": "Week06.xopp.pdf",
+        "type": "file",
+        "url": "Ethical Hacking/Week06.xopp.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Probability",
+    "type": "directory",
+    "children": [
+      {
+        "name": "CH1_Axioms-of-Probability.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH1_Axioms-of-Probability.xopp.pdf"
+      },
+      {
+        "name": "CH2_Combinatorial-Methods.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH2_Combinatorial-Methods.xopp.pdf"
+      },
+      {
+        "name": "CH2_Combinatorial-Methods_autosaved.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH2_Combinatorial-Methods_autosaved.xopp.pdf"
+      },
+      {
+        "name": "CH3_Conditional-Prob.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH3_Conditional-Prob.xopp.pdf"
+      },
+      {
+        "name": "hw_01.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_01.xopp.pdf"
+      },
+      {
+        "name": "hw_02.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_02.xopp.pdf"
+      },
+      {
+        "name": "hw_03.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_03.xopp.pdf"
+      },
+      {
+        "name": "hw_04.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_04.xopp.pdf"
+      }
+    ]
+  }
+]
