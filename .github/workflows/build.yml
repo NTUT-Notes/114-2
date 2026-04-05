@@ -22,13 +22,8 @@ jobs:
           output_directory: "compiled-pdfs"
           font_url: "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
 
-      - name: Deploy to Output Branch
+      - name: Publish to github pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: "compiled-pdfs"
-          
-          publish_branch: "compiled-outputs"
-          force_orphan: true
-
-          commit_message: "Deploy compiled PDFs from ${{ github.sha }}"
