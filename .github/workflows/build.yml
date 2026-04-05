@@ -18,6 +18,7 @@ jobs:
 
       - uses: YFHD-osu/XOPP-Compiler@main
         with:
+          publish_page: true
           output_directory: "compiled-pdfs"
           font_url: "https://github.com/microsoft/cascadia-code/releases/download/v2407.24/CascadiaCode-2407.24.zip"
 
