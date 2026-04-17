@@ -17,6 +17,11 @@
         "name": "DS_4_Data-Mining.xopp.pdf",
         "type": "file",
         "url": "Data Science/DS_4_Data-Mining.xopp.pdf"
+      },
+      {
+        "name": "DS_5_Decision-Tree.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/DS_5_Decision-Tree.xopp.pdf"
       }
     ]
   },
@@ -64,6 +69,11 @@
         "name": "CH3_Conditional-Prob.xopp.pdf",
         "type": "file",
         "url": "Probability/CH3_Conditional-Prob.xopp.pdf"
+      },
+      {
+        "name": "CH4_Distribution-Functions.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH4_Distribution-Functions.xopp.pdf"
       },
       {
         "name": "hw_01.xopp.pdf",
