@@ -68,5 +68,26 @@ The list of switch pins from SW[17] to SW[0]
 - PIN_AC28
 - PIN_AB28
 
+# LEDs
+## Red LED
+- PIN_H15
+- PIN_G16
+- PIN_G15
+- PIN_F15
+- PIN_H17
+- PIN_J16
+- PIN_H16
+- PIN_J15
+- PIN_G17
+- PIN_J17
+- PIN_H19
+- PIN_J19
+- PIN_E18
+- PIN_F18
+- PIN_F21
+- PIN_E19
+- PIN_F19
+- PIN_G19
+
 # More PINS Definition
 Visit [Dropbox](https://www.dropbox.com/scl/fi/jgty92kzryx098xbou73z/DE2_115_User_manu?rlkey=eeg1xenmerrmdgbx31ck5vy5x&e=3) for more information
