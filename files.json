@@ -22,6 +22,11 @@
         "name": "DS_5_Decision-Tree.xopp.pdf",
         "type": "file",
         "url": "Data Science/DS_5_Decision-Tree.xopp.pdf"
+      },
+      {
+        "name": "DS_6_Regression.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/DS_6_Regression.xopp.pdf"
       }
     ]
   },
@@ -76,6 +81,11 @@
         "url": "Probability/CH4_Distribution-Functions.xopp.pdf"
       },
       {
+        "name": "CH5_Special Discrete RV.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH5_Special Discrete RV.xopp.pdf"
+      },
+      {
         "name": "hw_01.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_01.xopp.pdf"
@@ -94,6 +104,11 @@
         "name": "hw_04.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_04.xopp.pdf"
+      },
+      {
+        "name": "hw_05.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_05.xopp.pdf"
       }
     ]
   }
