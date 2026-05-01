@@ -20,6 +20,8 @@ Architecture Behavior of main_2 Is
 	signal result : std_logic_vector( 6 downto 0);
 	signal subone : std_logic_vector( 6 downto 0);
 	signal abs_sum : std_logic_vector( 6 downto 0);
+	
+	signal aTest  : std_logic_vector (6 downto 0);
 
 Begin	
 	alu: alu7bit port map (a, b, ctrl, '0', cout, result, overflow);
@@ -39,6 +41,8 @@ Begin
 			segOut ( (i+1)*7-1 downto i*7 )
 		);
 	End Generate;
+	
+	segOut (6 downto 0) => s0;
 	
 	s0 <= segOut (6 downto 0);
 	s1 <= segOut (13 downto 7);
