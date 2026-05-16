@@ -4,6 +4,36 @@
     "type": "directory",
     "children": [
       {
+        "name": "CH1_Decision-Tree.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH1_Decision-Tree.xopp.pdf"
+      },
+      {
+        "name": "CH2_Business-Intelligence.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH2_Business-Intelligence.xopp.pdf"
+      },
+      {
+        "name": "CH3_Data-Ware-House.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH3_Data-Ware-House.xopp.pdf"
+      },
+      {
+        "name": "CH4_Data-Mining.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH4_Data-Mining.xopp.pdf"
+      },
+      {
+        "name": "CH6_Regression.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH6_Regression.xopp.pdf"
+      },
+      {
+        "name": "CH_7.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH_7.xopp.pdf"
+      },
+      {
         "name": "DS_2_Business-Intelligence.xopp.pdf",
         "type": "file",
         "url": "Data Science/DS_2_Business-Intelligence.xopp.pdf"
@@ -91,6 +121,11 @@
         "url": "Probability/CH5_Special Discrete RV.xopp.pdf"
       },
       {
+        "name": "CH6_Continuous-RV.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH6_Continuous-RV.xopp.pdf"
+      },
+      {
         "name": "hw_01.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_01.xopp.pdf"
@@ -114,6 +149,16 @@
         "name": "hw_05.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_05.xopp.pdf"
+      },
+      {
+        "name": "hw_06.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_06.xopp.pdf"
+      },
+      {
+        "name": "hw_07.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_07.xopp.pdf"
       }
     ]
   }
