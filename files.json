@@ -4,6 +4,11 @@
     "type": "directory",
     "children": [
       {
+        "name": "CH10_ANN.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH10_ANN.xopp.pdf"
+      },
+      {
         "name": "CH1_Decision-Tree.xopp.pdf",
         "type": "file",
         "url": "Data Science/CH1_Decision-Tree.xopp.pdf"
@@ -24,39 +29,29 @@
         "url": "Data Science/CH4_Data-Mining.xopp.pdf"
       },
       {
+        "name": "CH5_Decision-Tree.xopp.pdf",
+        "type": "file",
+        "url": "Data Science/CH5_Decision-Tree.xopp.pdf"
+      },
+      {
         "name": "CH6_Regression.xopp.pdf",
         "type": "file",
         "url": "Data Science/CH6_Regression.xopp.pdf"
       },
       {
-        "name": "CH_7.xopp.pdf",
+        "name": "CH7_NaiveBayes.xopp.pdf",
         "type": "file",
-        "url": "Data Science/CH_7.xopp.pdf"
+        "url": "Data Science/CH7_NaiveBayes.xopp.pdf"
       },
       {
-        "name": "DS_2_Business-Intelligence.xopp.pdf",
+        "name": "CH8_Clustering.xopp.pdf",
         "type": "file",
-        "url": "Data Science/DS_2_Business-Intelligence.xopp.pdf"
+        "url": "Data Science/CH8_Clustering.xopp.pdf"
       },
       {
-        "name": "DS_3_Data-Ware-House.xopp.pdf",
+        "name": "CH9_ARM-Recommendation.xopp.pdf",
         "type": "file",
-        "url": "Data Science/DS_3_Data-Ware-House.xopp.pdf"
-      },
-      {
-        "name": "DS_4_Data-Mining.xopp.pdf",
-        "type": "file",
-        "url": "Data Science/DS_4_Data-Mining.xopp.pdf"
-      },
-      {
-        "name": "DS_5_Decision-Tree.xopp.pdf",
-        "type": "file",
-        "url": "Data Science/DS_5_Decision-Tree.xopp.pdf"
-      },
-      {
-        "name": "DS_6_Regression.xopp.pdf",
-        "type": "file",
-        "url": "Data Science/DS_6_Regression.xopp.pdf"
+        "url": "Data Science/CH9_ARM-Recommendation.xopp.pdf"
       },
       {
         "name": "Midterm_Exercise.xopp.pdf",
@@ -126,6 +121,16 @@
         "url": "Probability/CH6_Continuous-RV.xopp.pdf"
       },
       {
+        "name": "CH7_Special-Continuous-RV.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH7_Special-Continuous-RV.xopp.pdf"
+      },
+      {
+        "name": "CH8_Joint-Distribution.xopp.pdf",
+        "type": "file",
+        "url": "Probability/CH8_Joint-Distribution.xopp.pdf"
+      },
+      {
         "name": "hw_01.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_01.xopp.pdf"
@@ -159,6 +164,11 @@
         "name": "hw_07.xopp.pdf",
         "type": "file",
         "url": "Probability/hw_07.xopp.pdf"
+      },
+      {
+        "name": "hw_08.xopp.pdf",
+        "type": "file",
+        "url": "Probability/hw_08.xopp.pdf"
       }
     ]
   }
